@@ -1,7 +1,7 @@
 # Projet-Informatique: Search engine for Covid-19
 
-###Course: IN104
-###ENSTA, Institut Polytechnique Paris
+### Course: IN104
+### ENSTA, Institut Polytechnique Paris
 
 ## Context
 
