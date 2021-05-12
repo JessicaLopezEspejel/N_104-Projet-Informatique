@@ -1,4 +1,7 @@
-# N_104-Projet-Informatique: Search engine for Covid-19
+# Projet-Informatique: Search engine for Covid-19
+
+###Course: IN104
+###ENSTA, Institut Polytechnique Paris
 
 ## Context
 
@@ -17,8 +20,19 @@ time considerably. For instance, a search engine is a
 good choice to find the most related articles to the 
 keywords one is searching for. Inspired by
 [discovid.ai](https://www.kaggle.com/danielwolffram/discovid-ai-a-search-and-recommendation-engine?select=metadata.csv) 
-we propose you to build your 
-own search engine for Covid-19.
+we propose you to build your own search engine for Covid-19.
+
+## Instructions
+
+The codes presented are not optimized and contain errors. 
+Therefore, based on your Python classes you should optimize the code, 
+and use classes, objects and instances. In addition, you should 
+implement the four pillars of OOP: encapsulation, abstraction, 
+inheritance, and polymorphism.
+
+
+Your code should use PEP 8 as a style guide for Python code. 
+
 
 ## Contact
 
